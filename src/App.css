@@ -1,0 +1,192 @@
+.login-page{ 
+  height: 100vh;
+}
+
+#sidebar {
+  min-width: 250px;
+  max-width: 250px;
+  background: #494ca2;
+  color: #fff;
+  -webkit-transition: all .3s;
+  -o-transition: all .3s;
+  transition: all .3s;
+  position: relative;
+}
+
+#sidebar h1 {
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+#sidebar h1 .logo {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+#sidebar ul.components {
+  padding: 0;
+}
+
+#sidebar ul li {
+  font-size: 16px;
+}
+
+#sidebar ul li a {
+  padding: 10px 0;
+  display: block;
+  color: rgba(255,255,255,.6);
+  border-bottom: 1px solid rgba(255,255,255,.1);
+}
+
+#sidebar ul li.active>a {
+  background: 0 0;
+  color: #fff;
+}
+
+#sidebar ul li>a.active {
+  background: 0 0;
+  color: #fff;
+}
+
+#sidebar ul li {
+  font-size: 16px;
+}
+
+#sidebar ul  li a {
+  text-decoration: none;
+}
+
+#sidebar > div:first-of-type {
+  height: 100vh;
+}
+
+#sidebar ul li {
+  font-size: 16px;
+}
+
+.mr-3 {
+  margin-right: 1rem!important;
+}
+
+#sidebar ul li {
+  list-style: none;
+}
+
+.monthly-sales {
+  box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  border-radius: 10px;
+}
+
+.monthly-sales-top-section {
+  border-bottom: 1px solid rgb(75, 192, 192);
+  padding: 5px 0px;
+} 
+
+.monthly-sales-top-section button {
+  border: 2px solid rgb(75, 192, 192);
+  border-radius: 10px;
+}
+
+.monthly-sales-top-section h6 {
+  margin-bottom: 0px !important;
+}
+
+.card {
+  border-radius: 20px;
+  border: none;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.15);
+}
+
+
+.pinterest-background {
+  background-color: #f8d7da;
+}
+
+.card-footer:last-child {
+  border-radius: 0 0 calc(1rem - 1px) calc(1rem - 1px);
+}
+
+.pinterest {
+  color: #dc3545 !important
+}
+
+.facebook-background {
+  background-color: #cfe2ff;
+}
+
+.instagram-background {
+  background-color: #dadcf8;
+}
+
+.twitter-background{
+  background-color: #d7f0dd;
+}
+
+.facebook {
+  color: #0d6efd !important;
+}
+
+.instagram {
+  color: #4650dd !important;
+}
+
+.twitter {
+  color: #35b653 !important;
+}
+
+.social-media {
+  text-decoration: underline;
+  font-size: 20px;
+  margin-left: 15px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  color: #0d6efd;
+}
+
+.platform-icon i {
+  font-size: 26px;
+}
+
+.w-90 {
+  width: 90% !important;
+}
+
+.time-period {
+  font-size: 12px;
+  color: lightgray;
+}
+
+.MuiDataGrid-columnHeader {
+  text-align: center;
+}
+
+.MuiTablePagination-toolbar {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.MuiDataGrid-columnHeader {
+  text-align: center;
+}
+
+.MuiDataGrid-main {
+  background-color: #777ac6;
+  color: white;
+}
+
+.css-16c50h-MuiInputBase-root-MuiTablePagination-select{
+  margin-bottom: 15px;
+ }
+
+ .MuiTablePagination-actions  {
+  margin-bottom: 15px !important;
+ }
+
+ .dashboard-text {
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  color: #4650dd;
+ }
